@@ -1,0 +1,162 @@
+[
+    {
+        "product_id": "BED001",
+        "name": "Luxury Walnut King Bed",
+        "category": "bed",
+        "color": "walnut brown",
+        "material": "solid wood",
+        "style": ["luxury", "modern"],
+        "price": 45000,
+        "image_path": "products/beds/bed_01.jpg"
+    },
+    {
+        "product_id": "BED002",
+        "name": "Minimalist Velvet Upholstered Platform Bed",
+        "category": "bed",
+        "color": "beige",
+        "material": "velvet fabric",
+        "style": ["minimalist", "modern"],
+        "price": 38000,
+        "image_path": "products/beds/bed_02.jpg"
+    },
+    {
+        "product_id": "BED003",
+        "name": "Royal Emerald Tufted Storage Bed",
+        "category": "bed",
+        "color": "emerald green",
+        "material": "velvet",
+        "style": ["luxury", "classic"],
+        "price": 52000,
+        "image_path": "products/beds/bed_03.jpg"
+    },
+    {
+        "product_id": "SOFA001",
+        "name": "Scandinavian Chesterfield Leather Sofa",
+        "category": "sofa",
+        "color": "cognac brown",
+        "material": "genuine leather",
+        "style": ["scandinavian", "luxury"],
+        "price": 65000,
+        "image_path": "products/sofas/sofa_01.jpg"
+    },
+    {
+        "product_id": "SOFA002",
+        "name": "Modern Boucle Sectional Sofa",
+        "category": "sofa",
+        "color": "off-white",
+        "material": "boucle fabric",
+        "style": ["modern", "minimalist"],
+        "price": 72000,
+        "image_path": "products/sofas/sofa_02.jpg"
+    },
+    {
+        "product_id": "SOFA003",
+        "name": "Velvet Accent Loveseat",
+        "category": "sofa",
+        "color": "navy blue",
+        "material": "velvet",
+        "style": ["modern", "chic"],
+        "price": 28000,
+        "image_path": "products/sofas/sofa_03.jpg"
+    },
+    {
+        "product_id": "CURTAIN001",
+        "name": "Heavy Blackout Linen Curtains",
+        "category": "curtain",
+        "color": "beige",
+        "material": "natural linen",
+        "style": ["modern", "minimalist"],
+        "price": 4500,
+        "image_path": "products/curtains/curtain_01.jpg"
+    },
+    {
+        "product_id": "CURTAIN002",
+        "name": "Luxury Silk Sheer Drapes",
+        "category": "curtain",
+        "color": "warm ivory",
+        "material": "silk blend",
+        "style": ["luxury", "classic"],
+        "price": 8500,
+        "image_path": "products/curtains/curtain_02.jpg"
+    },
+    {
+        "product_id": "WALLPAPER001",
+        "name": "Textured Warm Wood Slat Wallpaper",
+        "category": "wallpaper",
+        "color": "brown",
+        "material": "vinyl wallpaper",
+        "style": ["modern", "natural"],
+        "price": 3200,
+        "image_path": "products/wallpapers/wallpaper_01.jpg"
+    },
+    {
+        "product_id": "WALLPAPER002",
+        "name": "Gold Leaf Geometric Accent Wallpaper",
+        "category": "wallpaper",
+        "color": "gold and cream",
+        "material": "metallic paper",
+        "style": ["luxury", "art deco"],
+        "price": 5500,
+        "image_path": "products/wallpapers/wallpaper_02.jpg"
+    },
+    {
+        "product_id": "LIGHTING001",
+        "name": "Brushed Brass Warm LED Chandelier",
+        "category": "lighting",
+        "color": "gold brass",
+        "material": "brass and glass",
+        "style": ["luxury", "modern"],
+        "price": 18500,
+        "image_path": "products/lighting/lighting_01.jpg"
+    },
+    {
+        "product_id": "LIGHTING002",
+        "name": "Nordic Ceramic Warm Bedside Table Lamp",
+        "category": "lighting",
+        "color": "terracotta",
+        "material": "ceramic",
+        "style": ["minimalist", "nordic"],
+        "price": 6200,
+        "image_path": "products/lighting/lighting_02.jpg"
+    },
+    {
+        "product_id": "LIGHTING003",
+        "name": "Minimalist Matte Black Arc Floor Lamp",
+        "category": "lighting",
+        "color": "matte black",
+        "material": "steel",
+        "style": ["modern", "industrial"],
+        "price": 9500,
+        "image_path": "products/lighting/lighting_03.jpg"
+    },
+    {
+        "product_id": "DECOR001",
+        "name": "Abstract Bronze Table Sculpture",
+        "category": "decor",
+        "color": "bronze",
+        "material": "metal",
+        "style": ["luxury", "contemporary"],
+        "price": 7500,
+        "image_path": "products/decor/decor_01.jpg"
+    },
+    {
+        "product_id": "DECOR002",
+        "name": "Organic Ceramic Flower Vase",
+        "category": "decor",
+        "color": "off-white",
+        "material": "ceramic",
+        "style": ["minimalist", "wabi-sabi"],
+        "price": 2800,
+        "image_path": "products/decor/decor_02.jpg"
+    },
+    {
+        "product_id": "DECOR003",
+        "name": "Large Framed Canvas Abstract Wall Art",
+        "category": "decor",
+        "color": "beige and charcoal",
+        "material": "canvas wood frame",
+        "style": ["modern", "abstract"],
+        "price": 12000,
+        "image_path": "products/decor/decor_03.jpg"
+    }
+]

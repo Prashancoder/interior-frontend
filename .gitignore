@@ -1,0 +1,19 @@
+# Python environment & cache
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Environment files
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Windows system files
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,92 @@
+:root {
+  /* Color Palette - Warm Architectural Modern */
+  --bg: #f8f6f0;
+  --bg-subtle: #f1ece1;
+  --bg-alt: #ece5d8;
+  --card: #ffffff;
+  --ink: #191c1b;
+  --ink-secondary: #404944;
+  --muted: #6b7570;
+  --line: #e3ded5;
+  --line-strong: #c8c0b2;
+
+  /* Accent Tones */
+  --accent: #1e3a34;
+  --accent-hover: #142824;
+  --accent-soft: #eaf2ee;
+  --accent-gold: #c29858;
+  --accent-gold-soft: #fbf5eb;
+  --warn: #92581c;
+  --danger: #9e2a2b;
+  --success: #1e3a34;
+
+  /* Typography */
+  --font-body: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-heading: 'Outfit', 'Plus Jakarta Sans', sans-serif;
+
+  /* Shadows */
+  --shadow-sm: 0 2px 8px rgba(25, 28, 27, 0.04);
+  --shadow-md: 0 8px 24px rgba(25, 28, 27, 0.06);
+  --shadow-lg: 0 16px 40px rgba(25, 28, 27, 0.08);
+
+  /* Radii */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-full: 9999px;
+
+  font-family: var(--font-body);
+  color: var(--ink);
+  background-color: var(--bg);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  background-color: var(--bg);
+  background-image:
+    radial-gradient(circle at 10% 10%, rgba(251, 245, 235, 0.8) 0%, transparent 40%),
+    radial-gradient(circle at 90% 90%, rgba(234, 242, 238, 0.5) 0%, transparent 40%);
+  background-attachment: fixed;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  color: var(--ink);
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button,
+input,
+select,
+textarea {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  background: none;
+  transition: all 0.2s ease;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
